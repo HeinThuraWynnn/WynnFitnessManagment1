@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'test'
+
+// test.categories
+{ "categories":
+[{"id":"1","name":"Gym Member"}, {"id":"2","name":"Class Member"}]}

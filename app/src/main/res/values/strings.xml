@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Wynn Fitness Managment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="moto">Wynn Solution </string>
+    <string name="create">Create the neXt...</string>
+    <string name="action_settings">Settings</string>
+    <string name="mm_test_text">မြန်မာနိုင်ငံ</string>
+    <string name="username">Admin Name</string>
+    <string name="title_activity_passcode">PasscodeActivity</string>
+    <string name="intro_text">Please insert atleast one member to use this app...</string>
+
+    <!-- Zaw -->
+    <string name="welcometext_Zg">မဂၤလာပါ</string>
+    <string name="hint_admin_name_Zg">စီမံသူအမည္</string>
+    <!-- Uni -->
+    <string name="welcometext_Uni">မင်္ဂလာပါ</string>
+    <string name="hint_admin_name_Uni">စီမံသူအမည်</string>
+
+</resources>
